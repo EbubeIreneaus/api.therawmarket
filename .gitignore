@@ -1,0 +1,3 @@
+venv
+FDM/.env
+db.sqlite3
